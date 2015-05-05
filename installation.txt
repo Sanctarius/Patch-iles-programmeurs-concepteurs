@@ -1,0 +1,13 @@
+Copyright © Sanctarius : 
+
+Bonjour,
+
+dans la série des zones cachées dans wow, voici les fameuses îles des programmeurs et concepteurs. 
+Pour pouvoir y accéder, vous devez placer le patch-3.mpq  dans votre dossier data et utiliser ces commandes pour vous y téléporter :
+
+Île des programmeurs :
+.go 16304.2 16318.1 69.44 451 
+
+Île des concepteurs (également appelée ile des designers) :
+.go 16303.5 -16173.5 40.4365 451
+
